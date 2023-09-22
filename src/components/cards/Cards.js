@@ -22,10 +22,22 @@ function Cards(props) {
   return (
     <div className="CardMain">
       <div className="CardMainImage">
-        <img
-          src={require(`../../assets/images/men/${props.imgData?.img}`)}
-          alt="NoImage"
-        />
+        {props?.data?.categoryId == 1001 ? (
+          <img
+            src={require(`../../assets/images/men/${props.data?.img}`)}
+            alt="NoImage"
+          />
+        ) : props?.data?.categoryId == 1002 ? (
+          <img
+            src={require(`../../assets/images/kids/${props.data?.img}`)}
+            alt="NoImage"
+          />
+        ) : (
+          <img
+            src={require(`../../assets/images/home&living/${props.data?.img}`)}
+            alt="NoImage"
+          />
+        )}
       </div>
       <div className="CardMainBtn">
         <div className="CardBtnCss">Cart</div>

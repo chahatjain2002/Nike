@@ -14,17 +14,17 @@ function Header() {
       <div className="HeaderMenu">
         <ul>
           <li>
-            <NavLink to={"/man"} className="NavlinkCss">
+            <NavLink to={"/man/1001"} className="NavlinkCss">
               Men
             </NavLink>
           </li>
           <li>
-            <NavLink to={"/kid"} className="NavlinkCss">
+            <NavLink to={"/kid/1002"} className="NavlinkCss">
               Kids
             </NavLink>
           </li>
           <li>
-            <NavLink to={"/accessories"} className="NavlinkCss">
+            <NavLink to={"/accessories/1003"} className="NavlinkCss">
               Home&Accessories
             </NavLink>
           </li>

@@ -35,6 +35,510 @@
       "brand": "Reymond",
       "description": "it is aReymond collection. One of the finest collection of the world",
       "availabilty": true
+    },
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "casualWear.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "colouredTees.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "fullSleevesTee.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "gymTee.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "jeans.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "leatherWear.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "loafers.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "runningShoes.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "sneakers.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "suit.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "tornJeans.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "travelPack.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "VanHeusenGreenshirt.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "whiteConverse.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "whiteTee.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "yellowHoodie.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "babyWears.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "bags.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "beachWear.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "boot.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "cartoonProps.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "casualWear.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "costume.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "denims.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "fallWear.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "formalWear.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "hairbands.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "jackets.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "navyWear.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "outdoorFit.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "pokkaDotTee.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "schoolWear.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "sleepWear.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "teeAndShorts.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "vacationWear.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 600001,
+      "categoryId": 1002,
+      "img": "whiteDress.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "blackCouch.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "blueSingleSeater.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "bookShelf.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "circularChair.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "coffeeTable.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "decoration.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "dispenser.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "greenSidetable.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "greenSingleSeater.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "greyCouch.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "knifes.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "loveCouch.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "ottoman.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "portrait.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "shelve.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "vases.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "whiteChair.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "workTable.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "yellowSingleSeater.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 700001,
+      "categoryId": 1003,
+      "img": "yogaMat.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
     }
   ]
 }
