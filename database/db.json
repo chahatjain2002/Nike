@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "airJordans.jpg",
+      "price": 500,
+      "brand": "Nike Air Jordan",
+      "description": "it is a Nike collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "blackTee.jpg",
+      "price": 1500,
+      "brand": "Allen solly",
+      "description": "it is a Allen solly collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "brownShoes.jpg",
+      "price": 1500,
+      "brand": "Adidas",
+      "description": "it is a Adidas collection. One of the finest collection of the world",
+      "availabilty": true
+    },
+    {
+      "itemID": 500001,
+      "categoryId": 1001,
+      "img": "businessCasual.jpg",
+      "price": 5600,
+      "brand": "Reymond",
+      "description": "it is aReymond collection. One of the finest collection of the world",
+      "availabilty": true
+    }
+  ]
+}

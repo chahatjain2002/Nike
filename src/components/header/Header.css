@@ -1,0 +1,53 @@
+.HeaderMain {
+  width: 100vw;
+  height: 10vh;
+  background-color: cyan;
+
+  display: flex;
+}
+.HedaerLogo {
+  width: 20vw;
+  height: inherit;
+  /* background-color: royalblue; */
+  text-align: center;
+  line-height: 10vh;
+}
+.HeaderMenu {
+  width: 45vw;
+  height: inherit;
+  /* background-color: rebeccapurple; */
+}
+.HeaderMenu ul {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.HeaderMenu ul li .active {
+  color: white;
+}
+.NavlinkCss {
+  text-decoration: none;
+}
+.HeaderSearch {
+  width: 35vw;
+  height: 10vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.HeaderSearchIcon {
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  flex-direction: row;
+  /* border: 1px solid black; */
+  align-items: center;
+  justify-content: space-evenly;
+}
+.cartImg {
+  width: 10%;
+  height: 40%;
+}

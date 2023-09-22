@@ -1,0 +1,13 @@
+.BodyMain {
+  width: 100vw;
+  height: 80vh;
+  background-color: greenyellow;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  overflow: auto;
+}
+.BodyInnerDiv {
+  margin: 10px;
+}
