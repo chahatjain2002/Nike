@@ -1,23 +1,9 @@
 import React, { useEffect, useState } from "react";
 import "./Cards.css";
+import { useStateValue } from "../../redux/StateProvider";
 
 function Cards(props) {
-  // const [data, setData] = useState([]);
-
-  // useEffect(() => {
-  //   fetch("http://localhost:3002/products")
-  //     .then((resp) => {
-  //       return resp.json();
-  //     })
-  //     .then((output) => {
-  //       setData(output);
-  //     })
-  //     .catch((error) => {
-  //       console.log(error.message);
-  //     });
-  // }, []);
-
-  // console.log(props.imgData?.img);
+  const [, dispatch] = useStateValue();
 
   return (
     <div className="CardMain">
@@ -39,9 +25,32 @@ function Cards(props) {
           />
         )}
       </div>
+      <div className="CardMainDesc">
+        <span>{`${props?.data?.description}`.slice(0, 30)}</span>
+      </div>
       <div className="CardMainBtn">
-        <div className="CardBtnCss">Cart</div>
-        <div className="CardBtnCss">Wishlist</div>
+        <div
+          className="CardBtnCss"
+          onClick={() => {
+            dispatch({
+              type: "CART",
+              value: props?.data?.itemID,
+            });
+          }}
+        >
+          Cart
+        </div>
+        <div
+          className="CardBtnCss"
+          onClick={() => {
+            dispatch({
+              type: "WISH",
+              value: props?.data?.itemID,
+            });
+          }}
+        >
+          Wishlist
+        </div>
       </div>
     </div>
   );

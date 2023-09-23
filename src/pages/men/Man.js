@@ -8,11 +8,12 @@ import { useParams } from "react-router-dom";
 
 function Man() {
   const catId = useParams();
+  const [{ apidata, searched_txt }, dispatch] = useStateValue();
 
   const [data, setData] = useState();
+  const [tempArray, setTempArray] = useState([]);
 
-  const [{ apidata }, dispatch] = useStateValue();
-
+  // this useEffect filters mans data
   useEffect(() => {
     console.log(apidata);
 
@@ -26,10 +27,26 @@ function Man() {
     setData(a);
   }, [apidata]);
 
+  // filtering the search text
+  useEffect(() => {
+    let temp = [];
+
+    data &&
+      data.map((ele) => {
+        if (
+          ele?.description.toLowerCase().includes(searched_txt.toLowerCase())
+        ) {
+          temp.push(ele);
+        }
+      });
+
+    setTempArray(temp);
+  }, [searched_txt]);
+
   return (
     <div>
       <Header />
-      <Body data={data} />
+      <Body data={tempArray.length > 0 ? tempArray : data} />
       <Footer />
     </div>
   );

@@ -15,7 +15,7 @@ function App() {
   const [{ apidata }, dispatch] = useStateValue();
 
   useEffect(() => {
-    fetch("http://localhost:3002/products")
+    fetch("http://localhost:3001/products")
       .then((resp) => {
         return resp.json();
       })

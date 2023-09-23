@@ -10,7 +10,7 @@
       "availabilty": true
     },
     {
-      "itemID": 500001,
+      "itemID": 500002,
       "categoryId": 1001,
       "img": "blackTee.jpg",
       "price": 1500,
@@ -19,7 +19,7 @@
       "availabilty": true
     },
     {
-      "itemID": 500001,
+      "itemID": 500003,
       "categoryId": 1001,
       "img": "brownShoes.jpg",
       "price": 1500,
@@ -28,16 +28,16 @@
       "availabilty": true
     },
     {
-      "itemID": 500001,
+      "itemID": 500004,
       "categoryId": 1001,
       "img": "businessCasual.jpg",
       "price": 5600,
-      "brand": "Reymond",
-      "description": "it is aReymond collection. One of the finest collection of the world",
+      "brand": "Nike",
+      "description": "it is nike collection. One of the finest collection of the world",
       "availabilty": true
     },
     {
-      "itemID": 500001,
+      "itemID": 500005,
       "categoryId": 1001,
       "img": "casualWear.jpg",
       "price": 5600,
@@ -46,7 +46,7 @@
       "availabilty": true
     },
     {
-      "itemID": 500001,
+      "itemID": 500006,
       "categoryId": 1001,
       "img": "colouredTees.jpg",
       "price": 5600,
@@ -55,7 +55,7 @@
       "availabilty": true
     },
     {
-      "itemID": 500001,
+      "itemID": 500007,
       "categoryId": 1001,
       "img": "fullSleevesTee.jpg",
       "price": 5600,
@@ -64,7 +64,7 @@
       "availabilty": true
     },
     {
-      "itemID": 500001,
+      "itemID": 500008,
       "categoryId": 1001,
       "img": "gymTee.jpg",
       "price": 5600,
@@ -73,7 +73,7 @@
       "availabilty": true
     },
     {
-      "itemID": 500001,
+      "itemID": 500009,
       "categoryId": 1001,
       "img": "jeans.jpg",
       "price": 5600,
@@ -82,7 +82,7 @@
       "availabilty": true
     },
     {
-      "itemID": 500001,
+      "itemID": 5000010,
       "categoryId": 1001,
       "img": "leatherWear.jpg",
       "price": 5600,
@@ -221,8 +221,8 @@
       "categoryId": 1002,
       "img": "cartoonProps.jpg",
       "price": 5600,
-      "brand": "Reymond",
-      "description": "it is aReymond collection. One of the finest collection of the world",
+      "brand": "Nike Air Jordan",
+      "description": "it is a Nike collection. One of the finest collection of the world",
       "availabilty": true
     },
     {
@@ -527,8 +527,8 @@
       "categoryId": 1003,
       "img": "yellowSingleSeater.jpg",
       "price": 5600,
-      "brand": "Reymond",
-      "description": "it is aReymond collection. One of the finest collection of the world",
+      "brand": "Tupperware",
+      "description": "it is Tupperware collection. One of the finest collection of the world",
       "availabilty": true
     },
     {
@@ -536,8 +536,8 @@
       "categoryId": 1003,
       "img": "yogaMat.jpg",
       "price": 5600,
-      "brand": "Reymond",
-      "description": "it is aReymond collection. One of the finest collection of the world",
+      "brand": "Bombay Dying",
+      "description": "it is Bombay Dying collection. One of the finest collection of the world",
       "availabilty": true
     }
   ]

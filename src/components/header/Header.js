@@ -1,8 +1,18 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import "./Header.css";
-import { NavLink } from "react-router-dom";
+import { NavLink, useActionData } from "react-router-dom";
+import { useStateValue } from "../../redux/StateProvider";
 
 function Header() {
+  const [txt, setTxt] = useState("");
+  const [, dispatch] = useStateValue();
+
+  useEffect(() => {
+    dispatch({
+      type: "SEARCHED_TXT",
+      value: txt,
+    });
+  }, [txt]);
   return (
     <div className="HeaderMain">
       <div className="HedaerLogo">
@@ -32,7 +42,14 @@ function Header() {
       </div>
 
       <div className="HeaderSearch">
-        <input type="search" placeholder="Search" />
+        <input
+          type="search"
+          placeholder="Search"
+          value={txt}
+          onChange={(e) => {
+            setTxt(e.target.value);
+          }}
+        />
         <div className="HeaderSearchIcon">
           <NavLink to={"/cart"}>
             <img src="cart.png" alt="Cart" className="cartImg" />
