@@ -52,11 +52,11 @@ function Header() {
         />
         <div className="HeaderSearchIcon">
           <NavLink to={"/cart"}>
-            <img src="cart.png" alt="Cart" className="cartImg" />
+            <img src="/cart.png" alt="Cart" className="cartImg" />
           </NavLink>
 
           <NavLink to={"/wishlist"}>
-            <img src="wishlist.png" alt="Wishlist" className="cartImg" />
+            <img src="/wishlist.png" alt="Wishlist" className="cartImg" />
           </NavLink>
         </div>
       </div>

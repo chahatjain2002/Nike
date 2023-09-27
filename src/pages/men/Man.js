@@ -15,12 +15,12 @@ function Man() {
 
   // this useEffect filters mans data
   useEffect(() => {
-    console.log(apidata);
+    // console.log(apidata);
 
     const a =
       apidata &&
       apidata.filter((ele) => {
-        console.log(ele.categoryId);
+        // console.log(ele.categoryId);
         return ele?.categoryId == catId?.catagoryId;
       });
 

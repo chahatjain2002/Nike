@@ -12,7 +12,10 @@ const reducer = (state, action) => {
     case "SEARCHED_TXT":
       return { ...state, searched_txt: action.value };
     case "CART":
-      return { ...state, cartList: new Set([...state.cartList, action.value]) };
+      return {
+        ...state,
+        cartList: [...new Set([...state.cartList, action.value])],
+      };
     case "WISH":
       return { ...state, wishlist: new Set([...state.wishlist, action.value]) };
   }

@@ -5,9 +5,11 @@ import Footer from "../../components/footer/Footer";
 import { useStateValue } from "../../redux/StateProvider";
 
 function Home() {
-  const [{ apidata, searched_txt }, dispatch] = useStateValue();
+  const [{ apidata, searched_txt, cartList }, dispatch] = useStateValue();
 
   const [tempArray, setTempArray] = useState([]);
+
+  // console.log("cartList", cartList[0]);
 
   useEffect(() => {
     let data = [];

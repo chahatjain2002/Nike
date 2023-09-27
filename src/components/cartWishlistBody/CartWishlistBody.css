@@ -1,0 +1,23 @@
+.CartWishlistBodyMain {
+  width: 100vw;
+  height: 80vh;
+  background-color: greenyellow;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  overflow: auto;
+}
+
+.displayItem {
+  width: 50vw;
+  height: 30vh;
+  border: 1px solid black;
+  margin: 1rem 0;
+}
+.displayItemImage {
+  width: 20vw;
+  height: 30vh;
+  border: 1px solid red;
+}
